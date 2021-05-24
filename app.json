@@ -1,10 +1,5 @@
 {
-  "pages": [
-		"pages/index/index",
-		"pages/component-as-page/index",
-		"pages/index-with-data/index",
-    "pages/logs/logs"
-  ],
+  "pages": ["pages/home/home"],
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
